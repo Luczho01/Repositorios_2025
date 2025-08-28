@@ -1,0 +1,186 @@
+country,Year,Mineral,Export_value,Company,Percent_share
+Peru,2018,Iron,9096994.0,,100.0
+Peru,2018,Manganese,17203.0,,100.0
+Peru,2018,Molybdenum,28034.0,,100.0
+Peru,2018,Arsenic,20376.0,,100.0
+Peru,2018,Bismuth,145.0,,100.0
+Peru,2018,Cadmium,765.0,,100.0
+Peru,2018,Copper,2416881.0,Oroco Resource Corp.,100.0
+Peru,2018,Indium,5.0,,100.0
+Peru,2018,Lead,288796.0,,100.0
+Peru,2018,Selenium,52.0,,100.0
+Peru,2018,Tin,18601.0,Stellar Resources Limited,100.0
+Peru,2018,Zinc,1471846.0,,100.0
+Peru,2018,Gold,125934.0,Aben Minerals Ltd.,10.0
+Peru,2018,Gold,125934.0,Asante Gold Corporation,10.0
+Peru,2018,Gold,125934.0,Athena Gold Corp,10.0
+Peru,2018,Gold,125934.0,Awalé Resources,10.0
+Peru,2018,Gold,125934.0,Endomines Finland Oyj,10.0
+Peru,2018,Gold,125934.0,Exploits Discovery Corp,10.0
+Peru,2018,Gold,125934.0,Great Boulder Resources,10.0
+Peru,2018,Gold,125934.0,Kobo Resources Inc.,10.0
+Peru,2018,Gold,125934.0,Loncor Gold Inc,10.0
+Peru,2018,Gold,125934.0,Scorpio Gold Corp.,10.0
+Peru,2018,Silver,3999990.0,,100.0
+Peru,2018,Baryte,15621.0,,100.0
+Peru,2018,Bentonite,2383.0,,100.0
+Peru,2018,Boron,100552.0,,100.0
+Peru,2018,Diatomite,96532.0,,100.0
+Peru,2018,Feldspar,31588.0,,100.0
+Peru,2018,Gypsum,458479.0,,100.0
+Peru,2018,Kaolin,16004.0,,100.0
+Peru,2018,Phosphates,1237000.0,,100.0
+Peru,2018,Salt,1509564.0,,100.0
+Peru,2018,Sulfur,552800.0,,100.0
+Peru,2018,Talc,47309.0,,100.0
+Peru,2018,Steam Coal,218787.0,,100.0
+Peru,2018,Nat. Gas,12721.0,,100.0
+Peru,2018,Petroleum,6688500.0,,100.0
+Peru,2019,Iron,9666412.0,,100.0
+Peru,2019,Manganese,18814.0,,100.0
+Peru,2019,Molybdenum,30441.0,,100.0
+Peru,2019,Arsenic,24915.0,,100.0
+Peru,2019,Bismuth,73.0,,100.0
+Peru,2019,Cadmium,772.0,,100.0
+Peru,2019,Copper,2437925.0,Oroco Resource Corp.,100.0
+Peru,2019,Indium,7.0,,100.0
+Peru,2019,Lead,307021.0,,100.0
+Peru,2019,Selenium,56.0,,100.0
+Peru,2019,Tin,19853.0,Stellar Resources Limited,100.0
+Peru,2019,Zinc,1382753.0,,100.0
+Peru,2019,Gold,113586.0,Aben Minerals Ltd.,10.0
+Peru,2019,Gold,113586.0,Asante Gold Corporation,10.0
+Peru,2019,Gold,113586.0,Athena Gold Corp,10.0
+Peru,2019,Gold,113586.0,Awalé Resources,10.0
+Peru,2019,Gold,113586.0,Endomines Finland Oyj,10.0
+Peru,2019,Gold,113586.0,Exploits Discovery Corp,10.0
+Peru,2019,Gold,113586.0,Great Boulder Resources,10.0
+Peru,2019,Gold,113586.0,Kobo Resources Inc.,10.0
+Peru,2019,Gold,113586.0,Loncor Gold Inc,10.0
+Peru,2019,Gold,113586.0,Scorpio Gold Corp.,10.0
+Peru,2019,Silver,3706760.0,,100.0
+Peru,2019,Baryte,16373.0,,100.0
+Peru,2019,Bentonite,46887.0,,100.0
+Peru,2019,Boron,111108.0,,100.0
+Peru,2019,Diatomite,91103.0,,100.0
+Peru,2019,Feldspar,29134.0,,100.0
+Peru,2019,Gypsum,254382.0,,100.0
+Peru,2019,Kaolin,9208.0,,100.0
+Peru,2019,Phosphates,1331000.0,,100.0
+Peru,2019,Salt,1266347.0,,100.0
+Peru,2019,Sulfur,511500.0,,100.0
+Peru,2019,Talc,43974.0,,100.0
+Peru,2019,Steam Coal,181023.0,,100.0
+Peru,2019,Nat. Gas,13429.0,,100.0
+Peru,2019,Petroleum,6956200.0,,100.0
+Peru,2020,Iron,8893972.0,,100.0
+Peru,2020,Manganese,10120.0,,100.0
+Peru,2020,Molybdenum,32185.0,,100.0
+Peru,2020,Arsenic,19014.0,,100.0
+Peru,2020,Bismuth,74.0,,100.0
+Peru,2020,Cadmium,451.0,,100.0
+Peru,2020,Copper,2153952.0,Oroco Resource Corp.,100.0
+Peru,2020,Indium,7.0,,100.0
+Peru,2020,Lead,241548.0,,100.0
+Peru,2020,Selenium,53.0,,100.0
+Peru,2020,Tin,20647.0,Stellar Resources Limited,100.0
+Peru,2020,Zinc,1334570.0,,100.0
+Peru,2020,Gold,85173.0,Aben Minerals Ltd.,10.0
+Peru,2020,Gold,85173.0,Asante Gold Corporation,10.0
+Peru,2020,Gold,85173.0,Athena Gold Corp,10.0
+Peru,2020,Gold,85173.0,Awalé Resources,10.0
+Peru,2020,Gold,85173.0,Endomines Finland Oyj,10.0
+Peru,2020,Gold,85173.0,Exploits Discovery Corp,10.0
+Peru,2020,Gold,85173.0,Great Boulder Resources,10.0
+Peru,2020,Gold,85173.0,Kobo Resources Inc.,10.0
+Peru,2020,Gold,85173.0,Loncor Gold Inc,10.0
+Peru,2020,Gold,85173.0,Scorpio Gold Corp.,10.0
+Peru,2020,Silver,2768240.0,,100.0
+Peru,2020,Baryte,5242.0,,100.0
+Peru,2020,Bentonite,25532.0,,100.0
+Peru,2020,Boron,43645.0,,100.0
+Peru,2020,Diatomite,85406.0,,100.0
+Peru,2020,Feldspar,24132.0,,100.0
+Peru,2020,Gypsum,171093.0,,100.0
+Peru,2020,Kaolin,12536.0,,100.0
+Peru,2020,Phosphates,1031300.0,,100.0
+Peru,2020,Salt,1030598.0,,100.0
+Peru,2020,Sulfur,474500.0,,100.0
+Peru,2020,Talc,37938.0,,100.0
+Peru,2020,Steam Coal,131516.0,,100.0
+Peru,2020,Nat. Gas,12030.0,,100.0
+Peru,2020,Petroleum,6221400.0,,100.0
+Peru,2021,Iron,12149274.0,,100.0
+Peru,2021,Manganese,9073.0,,100.0
+Peru,2021,Molybdenum,34148.0,,100.0
+Peru,2021,Arsenic,21872.0,,100.0
+Peru,2021,Bismuth,248.0,,100.0
+Peru,2021,Cadmium,636.0,,100.0
+Peru,2021,Copper,2329886.0,Oroco Resource Corp.,100.0
+Peru,2021,Indium,7.0,,100.0
+Peru,2021,Lead,264427.0,,100.0
+Peru,2021,Selenium,48.0,,100.0
+Peru,2021,Tin,26995.0,Stellar Resources Limited,100.0
+Peru,2021,Zinc,1533135.0,,100.0
+Peru,2021,Gold,97190.0,Aben Minerals Ltd.,10.0
+Peru,2021,Gold,97190.0,Asante Gold Corporation,10.0
+Peru,2021,Gold,97190.0,Athena Gold Corp,10.0
+Peru,2021,Gold,97190.0,Awalé Resources,10.0
+Peru,2021,Gold,97190.0,Endomines Finland Oyj,10.0
+Peru,2021,Gold,97190.0,Exploits Discovery Corp,10.0
+Peru,2021,Gold,97190.0,Great Boulder Resources,10.0
+Peru,2021,Gold,97190.0,Kobo Resources Inc.,10.0
+Peru,2021,Gold,97190.0,Loncor Gold Inc,10.0
+Peru,2021,Gold,97190.0,Scorpio Gold Corp.,10.0
+Peru,2021,Silver,3375645.0,,100.0
+Peru,2021,Baryte,10361.0,,100.0
+Peru,2021,Bentonite,56199.0,,100.0
+Peru,2021,Boron,246362.0,,100.0
+Peru,2021,Diatomite,94860.0,,100.0
+Peru,2021,Feldspar,27274.0,,100.0
+Peru,2021,Gypsum,435459.0,,100.0
+Peru,2021,Kaolin,13142.0,,100.0
+Peru,2021,Phosphates,1293100.0,,100.0
+Peru,2021,Salt,1175828.0,,100.0
+Peru,2021,Sulfur,529900.0,,100.0
+Peru,2021,Talc,50355.0,,100.0
+Peru,2021,Steam Coal,146982.0,,100.0
+Peru,2021,Nat. Gas,11375.0,,100.0
+Peru,2021,Petroleum,5949800.0,,100.0
+Peru,2022,Iron,12936826.0,,100.0
+Peru,2022,Manganese,1169.0,,100.0
+Peru,2022,Molybdenum,31588.0,,100.0
+Peru,2022,Arsenic,25379.0,,100.0
+Peru,2022,Bismuth,251.0,,100.0
+Peru,2022,Cadmium,460.0,,100.0
+Peru,2022,Copper,2445271.0,Oroco Resource Corp.,100.0
+Peru,2022,Indium,7.0,,100.0
+Peru,2022,Lead,255443.0,,100.0
+Peru,2022,Selenium,57.0,,100.0
+Peru,2022,Tin,28231.0,Stellar Resources Limited,100.0
+Peru,2022,Zinc,1369649.0,,100.0
+Peru,2022,Gold,96966.0,Aben Minerals Ltd.,10.0
+Peru,2022,Gold,96966.0,Asante Gold Corporation,10.0
+Peru,2022,Gold,96966.0,Athena Gold Corp,10.0
+Peru,2022,Gold,96966.0,Awalé Resources,10.0
+Peru,2022,Gold,96966.0,Endomines Finland Oyj,10.0
+Peru,2022,Gold,96966.0,Exploits Discovery Corp,10.0
+Peru,2022,Gold,96966.0,Great Boulder Resources,10.0
+Peru,2022,Gold,96966.0,Kobo Resources Inc.,10.0
+Peru,2022,Gold,96966.0,Loncor Gold Inc,10.0
+Peru,2022,Gold,96966.0,Scorpio Gold Corp.,10.0
+Peru,2022,Silver,3084039.0,,100.0
+Peru,2022,Baryte,29293.0,,100.0
+Peru,2022,Bentonite,22931.0,,100.0
+Peru,2022,Boron,292986.0,,100.0
+Peru,2022,Diatomite,104660.0,,100.0
+Peru,2022,Feldspar,24358.0,,100.0
+Peru,2022,Gypsum,315292.0,,100.0
+Peru,2022,Kaolin,14300.0,,100.0
+Peru,2022,Phosphates,1314600.0,,100.0
+Peru,2022,Salt,1093559.0,,100.0
+Peru,2022,Sulfur,588300.0,,100.0
+Peru,2022,Talc,49869.0,,100.0
+Peru,2022,Steam Coal,192094.0,,100.0
+Peru,2022,Nat. Gas,13705.0,,100.0
+Peru,2022,Petroleum,5835100.0,,100.0
